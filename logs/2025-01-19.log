@@ -1,0 +1,319 @@
+2025-01-19 22:40:11,250 - __main__ - INFO - Starting application
+2025-01-19 22:40:11,250 - __main__ - INFO - Initializing session state
+2025-01-19 22:40:11,251 - query - INFO - Processing query: ...
+2025-01-19 22:40:11,251 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:40:11,251 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:40:15,478 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:40:15,660 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:40:15,661 - query - INFO - Query vector generated successfully
+2025-01-19 22:40:15,663 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:40:17,667 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:40:17,671 - __main__ - INFO - New user query received at 2025-01-19T22:40:17.671049
+2025-01-19 22:40:17,671 - __main__ - INFO - Query content: Database connection timeout
+2025-01-19 22:40:17,673 - query - INFO - Processing query: Database connection timeout...
+2025-01-19 22:40:17,673 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:40:17,673 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:40:20,347 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:40:20,506 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:40:20,506 - query - INFO - Query vector generated successfully
+2025-01-19 22:40:20,508 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:40:22,481 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:40:22,483 - __main__ - INFO - Query processing time: 4.81 seconds
+2025-01-19 22:40:22,483 - __main__ - INFO - Formatting response for query: Database connection timeout...
+2025-01-19 22:40:22,484 - __main__ - INFO - Selected category: Backend
+2025-01-19 22:40:22,484 - __main__ - INFO - Found 4 matching solutions
+2025-01-19 22:40:22,484 - nlp.text_generation - INFO - Generating text for query: Database connection timeout...
+2025-01-19 22:40:23,155 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-19 22:40:23,156 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-19T22:40:23.156522",
+  "query": "Database connection timeout",
+  "response": "Below are the steps to address the issue:\nHighly Suitable Solutions\n1. Inspect API endpoint and validate request parameters.\n2. Increase database timeout settings and optimize queries.\n3. Inspect API endpoint and validate request parameters.\n4. Ensure the requested page exists and update the routing rules.",
+  "category": "Backend"
+}
+2025-01-19 22:40:51,905 - __main__ - INFO - Starting application
+2025-01-19 22:40:51,908 - __main__ - INFO - Initializing session state
+2025-01-19 22:40:51,908 - query - INFO - Processing query: ...
+2025-01-19 22:40:51,909 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:40:51,909 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:40:54,958 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:40:55,319 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:40:55,319 - query - INFO - Query vector generated successfully
+2025-01-19 22:40:56,610 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:40:58,834 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:41:04,713 - __main__ - INFO - Starting application
+2025-01-19 22:41:04,714 - __main__ - INFO - Initializing session state
+2025-01-19 22:41:04,715 - query - INFO - Processing query: ...
+2025-01-19 22:41:04,715 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:41:04,715 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:41:07,467 - __main__ - INFO - Starting application
+2025-01-19 22:41:07,469 - __main__ - INFO - Initializing session state
+2025-01-19 22:41:07,470 - query - INFO - Processing query: ...
+2025-01-19 22:41:07,470 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:41:07,471 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:41:08,538 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:41:08,828 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:41:08,829 - query - INFO - Query vector generated successfully
+2025-01-19 22:41:08,836 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:41:10,439 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:41:10,872 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:41:10,873 - query - INFO - Query vector generated successfully
+2025-01-19 22:41:10,878 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:41:11,444 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:41:13,578 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:41:13,587 - __main__ - INFO - New user query received at 2025-01-19T22:41:13.587339
+2025-01-19 22:41:13,588 - __main__ - INFO - Query content: Database connection timeout
+2025-01-19 22:41:13,664 - query - INFO - Processing query: Database connection timeout...
+2025-01-19 22:41:13,665 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:41:13,665 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:41:16,350 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:41:16,789 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:41:16,790 - query - INFO - Query vector generated successfully
+2025-01-19 22:41:16,798 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:41:19,378 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:41:19,381 - __main__ - INFO - Query processing time: 5.72 seconds
+2025-01-19 22:41:19,381 - __main__ - INFO - Formatting response for query: Database connection timeout...
+2025-01-19 22:41:19,381 - __main__ - INFO - Selected category: Authentication
+2025-01-19 22:41:19,382 - __main__ - INFO - Found 0 matching solutions
+2025-01-19 22:41:19,382 - nlp.text_generation - INFO - Generating text for query: Database connection timeout...
+2025-01-19 22:41:20,207 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-19 22:41:20,208 - __main__ - WARNING - No solutions found for the selected category
+2025-01-19 22:41:20,209 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-19T22:41:20.209614",
+  "query": "Database connection timeout",
+  "response": "No solutions found for the selected category.",
+  "category": "Authentication"
+}
+2025-01-19 22:41:38,033 - __main__ - INFO - Starting application
+2025-01-19 22:41:38,034 - __main__ - INFO - Initializing session state
+2025-01-19 22:41:38,035 - query - INFO - Processing query: ...
+2025-01-19 22:41:38,035 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:41:38,035 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:41:40,748 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:41:40,943 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:41:40,943 - query - INFO - Query vector generated successfully
+2025-01-19 22:41:40,945 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:41:42,880 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:41:43,443 - __main__ - INFO - Starting application
+2025-01-19 22:41:43,444 - __main__ - INFO - Initializing session state
+2025-01-19 22:41:43,445 - query - INFO - Processing query: ...
+2025-01-19 22:41:43,446 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:41:43,446 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:41:46,547 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:41:47,115 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:41:47,116 - query - INFO - Query vector generated successfully
+2025-01-19 22:41:47,124 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:41:49,738 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:41:49,748 - __main__ - INFO - New user query received at 2025-01-19T22:41:49.748156
+2025-01-19 22:41:49,749 - __main__ - INFO - Query content: Database connection timeout
+2025-01-19 22:41:49,753 - query - INFO - Processing query: Database connection timeout...
+2025-01-19 22:41:49,754 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:41:49,755 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:41:52,410 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:41:52,837 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:41:52,837 - query - INFO - Query vector generated successfully
+2025-01-19 22:41:52,842 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:41:55,349 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:41:55,352 - __main__ - INFO - Query processing time: 5.60 seconds
+2025-01-19 22:41:55,352 - __main__ - INFO - Formatting response for query: Database connection timeout...
+2025-01-19 22:41:55,353 - __main__ - INFO - Selected category: Authentication
+2025-01-19 22:41:55,354 - __main__ - INFO - Found 0 matching solutions
+2025-01-19 22:41:55,354 - nlp.text_generation - INFO - Generating text for query: Database connection timeout...
+2025-01-19 22:41:55,847 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-19 22:41:55,848 - __main__ - WARNING - No solutions found for the selected category
+2025-01-19 22:41:55,849 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-19T22:41:55.849621",
+  "query": "Database connection timeout",
+  "response": "No solutions found for the selected category.",
+  "category": "Authentication"
+}
+2025-01-19 22:43:30,543 - __main__ - INFO - Starting application
+2025-01-19 22:43:30,546 - __main__ - INFO - Initializing session state
+2025-01-19 22:43:30,547 - query - INFO - Processing query: ...
+2025-01-19 22:43:30,547 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:43:30,548 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:43:34,935 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:43:36,209 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:43:36,210 - query - INFO - Query vector generated successfully
+2025-01-19 22:43:37,994 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:43:40,693 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:43:46,932 - __main__ - INFO - Starting application
+2025-01-19 22:43:46,933 - __main__ - INFO - Initializing session state
+2025-01-19 22:43:46,934 - query - INFO - Processing query: ...
+2025-01-19 22:43:46,935 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:43:46,935 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:43:49,830 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:43:50,295 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:43:50,295 - query - INFO - Query vector generated successfully
+2025-01-19 22:43:50,302 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:43:50,940 - __main__ - INFO - Starting application
+2025-01-19 22:43:50,941 - __main__ - INFO - Initializing session state
+2025-01-19 22:43:50,943 - query - INFO - Processing query: ...
+2025-01-19 22:43:50,943 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:43:50,944 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:43:52,820 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:43:54,395 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:43:54,927 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:43:54,928 - query - INFO - Query vector generated successfully
+2025-01-19 22:43:54,936 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:43:57,566 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:43:57,573 - __main__ - INFO - New user query received at 2025-01-19T22:43:57.573392
+2025-01-19 22:43:57,574 - __main__ - INFO - Query content: error
+2025-01-19 22:43:57,656 - query - INFO - Processing query: error...
+2025-01-19 22:43:57,657 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:43:57,657 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:44:00,469 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:44:00,626 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:44:00,626 - query - INFO - Query vector generated successfully
+2025-01-19 22:44:00,628 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:44:02,607 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:44:02,608 - __main__ - INFO - Query processing time: 4.95 seconds
+2025-01-19 22:44:02,609 - __main__ - INFO - Formatting response for query: error...
+2025-01-19 22:44:02,609 - __main__ - INFO - Selected category: Authentication
+2025-01-19 22:44:02,609 - __main__ - INFO - Found 4 matching solutions
+2025-01-19 22:44:02,610 - nlp.text_generation - INFO - Generating text for query: error...
+2025-01-19 22:44:03,853 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-19 22:44:03,854 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-19T22:44:03.854491",
+  "query": "error",
+  "response": "Below are the steps to address the issue:\nHighly Suitable Solutions\n1. Verify username and password, and reset credentials if necessary.\n2. Check file size and format; update server upload configurations.\n3. Inspect API endpoint and validate request parameters.\n4. Verify username and password, and reset credentials if necessary.",
+  "category": "Authentication"
+}
+2025-01-19 22:44:15,666 - __main__ - INFO - Starting application
+2025-01-19 22:44:15,667 - __main__ - INFO - Initializing session state
+2025-01-19 22:44:15,668 - query - INFO - Processing query: ...
+2025-01-19 22:44:15,669 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:44:15,670 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:44:18,688 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:44:19,244 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:44:19,245 - query - INFO - Query vector generated successfully
+2025-01-19 22:44:19,253 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:44:21,913 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:44:21,923 - __main__ - INFO - New user query received at 2025-01-19T22:44:21.923161
+2025-01-19 22:44:21,924 - __main__ - INFO - Query content: Database connection timeout
+2025-01-19 22:44:21,928 - query - INFO - Processing query: Database connection timeout...
+2025-01-19 22:44:21,929 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:44:21,929 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:44:25,243 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:44:25,402 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:44:25,402 - query - INFO - Query vector generated successfully
+2025-01-19 22:44:25,404 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:44:27,355 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:44:27,356 - __main__ - INFO - Query processing time: 5.43 seconds
+2025-01-19 22:44:27,357 - __main__ - INFO - Formatting response for query: Database connection timeout...
+2025-01-19 22:44:27,357 - __main__ - INFO - Selected category: Authentication
+2025-01-19 22:44:27,357 - __main__ - INFO - Found 0 matching solutions
+2025-01-19 22:44:27,358 - nlp.text_generation - INFO - Generating text for query: Database connection timeout...
+2025-01-19 22:44:27,841 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-19 22:44:27,842 - __main__ - WARNING - No solutions found for the selected category
+2025-01-19 22:44:27,843 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-19T22:44:27.843380",
+  "query": "Database connection timeout",
+  "response": "No solutions found for the selected category.",
+  "category": "Authentication"
+}
+2025-01-19 22:45:05,020 - __main__ - INFO - Starting application
+2025-01-19 22:45:05,021 - __main__ - INFO - Initializing session state
+2025-01-19 22:45:05,022 - query - INFO - Processing query: ...
+2025-01-19 22:45:05,022 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:45:05,023 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:45:09,444 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:45:10,036 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:45:10,037 - query - INFO - Query vector generated successfully
+2025-01-19 22:45:10,045 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:45:12,468 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:45:12,483 - __main__ - INFO - New user query received at 2025-01-19T22:45:12.483132
+2025-01-19 22:45:12,483 - __main__ - INFO - Query content: User session keeps expiring too soon
+2025-01-19 22:45:12,488 - query - INFO - Processing query: User session keeps expiring too soon...
+2025-01-19 22:45:12,489 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:45:12,489 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:45:15,605 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:45:16,082 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:45:16,083 - query - INFO - Query vector generated successfully
+2025-01-19 22:45:16,088 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:45:18,352 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:45:18,355 - __main__ - INFO - Query processing time: 5.87 seconds
+2025-01-19 22:45:18,356 - __main__ - INFO - Formatting response for query: User session keeps expiring too soon...
+2025-01-19 22:45:18,356 - __main__ - INFO - Selected category: Authentication
+2025-01-19 22:45:18,357 - __main__ - INFO - Found 4 matching solutions
+2025-01-19 22:45:18,358 - nlp.text_generation - INFO - Generating text for query: User session keeps expiring too soon...
+2025-01-19 22:45:19,414 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-19 22:45:19,415 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-19T22:45:19.415730",
+  "query": "User session keeps expiring too soon",
+  "response": "Below are the steps to address the issue:\nHighly Suitable Solutions\n1. Optimize backend processes and reduce resource-intensive operations.\n2. Reinstall the application and clear temporary files.\n3. Verify email server settings and troubleshoot SMTP configurations.\n4. Verify username and password, and reset credentials if necessary.",
+  "category": "Authentication"
+}
+2025-01-19 22:45:27,719 - __main__ - INFO - Starting application
+2025-01-19 22:45:27,719 - __main__ - INFO - Initializing session state
+2025-01-19 22:45:27,720 - query - INFO - Processing query: ...
+2025-01-19 22:45:27,722 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:45:27,722 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:45:30,848 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:45:31,433 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:45:31,434 - query - INFO - Query vector generated successfully
+2025-01-19 22:45:31,443 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:45:33,755 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:45:37,483 - __main__ - INFO - Starting application
+2025-01-19 22:45:37,483 - __main__ - INFO - Initializing session state
+2025-01-19 22:45:37,487 - query - INFO - Processing query: ...
+2025-01-19 22:45:37,487 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:45:37,488 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:45:41,468 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:45:42,020 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:45:42,021 - query - INFO - Query vector generated successfully
+2025-01-19 22:45:42,030 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:45:44,342 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:45:44,361 - __main__ - INFO - New user query received at 2025-01-19T22:45:44.361564
+2025-01-19 22:45:44,363 - __main__ - INFO - Query content: User session keeps expiring too soon
+2025-01-19 22:45:44,369 - query - INFO - Processing query: User session keeps expiring too soon...
+2025-01-19 22:45:44,369 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:45:44,370 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:45:47,366 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:45:47,867 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:45:47,869 - query - INFO - Query vector generated successfully
+2025-01-19 22:45:47,875 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:45:50,161 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:45:50,164 - __main__ - INFO - Query processing time: 5.79 seconds
+2025-01-19 22:45:50,165 - __main__ - INFO - Formatting response for query: User session keeps expiring too soon...
+2025-01-19 22:45:50,166 - __main__ - INFO - Selected category: Backend
+2025-01-19 22:45:50,166 - __main__ - INFO - Found 5 matching solutions
+2025-01-19 22:45:50,167 - nlp.text_generation - INFO - Generating text for query: User session keeps expiring too soon...
+2025-01-19 22:45:50,878 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-19 22:45:50,879 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-19T22:45:50.879221",
+  "query": "User session keeps expiring too soon",
+  "response": "Below are the steps to address the issue:\nHighly Suitable Solutions\n1. Extend session duration in server settings.\n2. Check server configuration and network connectivity.\n3. Ensure the requested page exists and update the routing rules.\n4. Check server configuration and network connectivity.\n5. Ensure the requested page exists and update the routing rules.",
+  "category": "Backend"
+}
+2025-01-19 22:46:23,155 - __main__ - INFO - Starting application
+2025-01-19 22:46:23,156 - __main__ - INFO - Initializing session state
+2025-01-19 22:46:23,157 - query - INFO - Processing query: ...
+2025-01-19 22:46:23,157 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:46:23,158 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:46:26,657 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:46:27,247 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:46:27,248 - query - INFO - Query vector generated successfully
+2025-01-19 22:46:27,258 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:46:29,664 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:46:29,687 - __main__ - INFO - New user query received at 2025-01-19T22:46:29.687654
+2025-01-19 22:46:29,688 - __main__ - INFO - Query content: Database connection timeout
+2025-01-19 22:46:29,692 - query - INFO - Processing query: Database connection timeout...
+2025-01-19 22:46:29,692 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-19 22:46:29,694 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-19 22:46:32,450 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-19 22:46:32,926 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-19 22:46:32,927 - query - INFO - Query vector generated successfully
+2025-01-19 22:46:32,931 - query - INFO - Pinecone initialized successfully
+2025-01-19 22:46:35,167 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-19 22:46:35,171 - __main__ - INFO - Query processing time: 5.48 seconds
+2025-01-19 22:46:35,171 - __main__ - INFO - Formatting response for query: Database connection timeout...
+2025-01-19 22:46:35,172 - __main__ - INFO - Selected category: Backend
+2025-01-19 22:46:35,173 - __main__ - INFO - Found 4 matching solutions
+2025-01-19 22:46:35,173 - nlp.text_generation - INFO - Generating text for query: Database connection timeout...
+2025-01-19 22:46:35,894 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-19 22:46:35,895 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-19T22:46:35.895647",
+  "query": "Database connection timeout",
+  "response": "Below are the steps to address the issue:\nHighly Suitable Solutions\n1. Inspect API endpoint and validate request parameters.\n2. Increase database timeout settings and optimize queries.\n3. Inspect API endpoint and validate request parameters.\n4. Ensure the requested page exists and update the routing rules.",
+  "category": "Backend"
+}

@@ -1,0 +1,303 @@
+2025-01-20 10:16:46,556 - __main__ - INFO - Starting application
+2025-01-20 10:16:46,556 - __main__ - INFO - Starting application
+2025-01-20 10:16:46,559 - __main__ - INFO - Initializing session state
+2025-01-20 10:16:46,563 - query - INFO - Processing query: ...
+2025-01-20 10:16:46,564 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:16:46,565 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:16:52,006 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:16:53,793 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:16:53,794 - query - INFO - Query vector generated successfully
+2025-01-20 10:16:55,966 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:16:58,477 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:17:52,942 - __main__ - INFO - Starting application
+2025-01-20 10:17:52,944 - __main__ - INFO - Initializing session state
+2025-01-20 10:17:52,946 - query - INFO - Processing query: ...
+2025-01-20 10:17:52,947 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:17:52,949 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:17:56,129 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:17:56,694 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:17:56,695 - query - INFO - Query vector generated successfully
+2025-01-20 10:17:56,704 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:17:59,519 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:18:22,617 - __main__ - INFO - Starting application
+2025-01-20 10:18:22,618 - __main__ - INFO - Initializing session state
+2025-01-20 10:18:22,619 - query - INFO - Processing query: ...
+2025-01-20 10:18:22,620 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:18:22,621 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:18:26,090 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:18:26,703 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:18:26,704 - query - INFO - Query vector generated successfully
+2025-01-20 10:18:26,712 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:18:29,367 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:18:29,374 - __main__ - INFO - New user query received at 2025-01-20T10:18:29.374602
+2025-01-20 10:18:29,375 - __main__ - INFO - Query content: Page loading very slowly
+2025-01-20 10:18:29,493 - query - INFO - Processing query: Page loading very slowly...
+2025-01-20 10:18:29,493 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:18:29,494 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:18:32,620 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:18:33,146 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:18:33,147 - query - INFO - Query vector generated successfully
+2025-01-20 10:18:33,153 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:18:35,913 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:18:35,916 - __main__ - INFO - Query processing time: 6.42 seconds
+2025-01-20 10:18:35,916 - __main__ - INFO - Formatting response for query: Page loading very slowly...
+2025-01-20 10:18:35,917 - __main__ - INFO - Selected category: Performance
+2025-01-20 10:18:35,917 - __main__ - INFO - Found 3 matching solutions
+2025-01-20 10:18:35,918 - nlp.text_generation - INFO - Generating text for query: Page loading very slowly...
+2025-01-20 10:18:37,000 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-20 10:18:37,000 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-20T10:18:37.000654",
+  "query": "Page loading very slowly",
+  "response": "Below are the steps to address the issue:\n**Highly Suitable Solutions**\n1. Inspect API endpoint and validate request parameters.\n2. Increase database timeout settings and optimize queries.\n3. Check server configuration and network connectivity.",
+  "category": "Performance"
+}
+2025-01-20 10:24:38,339 - __main__ - INFO - Starting application
+2025-01-20 10:24:38,340 - __main__ - INFO - Initializing session state
+2025-01-20 10:24:38,342 - query - INFO - Processing query: ...
+2025-01-20 10:24:38,343 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:24:38,343 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:24:43,622 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:24:44,145 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:24:44,145 - query - INFO - Query vector generated successfully
+2025-01-20 10:24:44,154 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:24:47,285 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:49:08,902 - __main__ - INFO - Starting application
+2025-01-20 10:49:09,018 - __main__ - INFO - Initializing session state
+2025-01-20 10:49:09,021 - query - INFO - Processing query: ...
+2025-01-20 10:49:09,022 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:49:09,023 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:49:12,857 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:49:14,810 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:49:14,811 - query - INFO - Query vector generated successfully
+2025-01-20 10:49:16,836 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:49:19,739 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:49:34,274 - __main__ - INFO - Starting application
+2025-01-20 10:49:34,276 - __main__ - INFO - Initializing session state
+2025-01-20 10:49:34,285 - query - INFO - Processing query: ...
+2025-01-20 10:49:34,285 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:49:34,286 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:49:37,767 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:49:38,360 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:49:38,360 - query - INFO - Query vector generated successfully
+2025-01-20 10:49:38,370 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:49:40,969 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:49:47,590 - __main__ - INFO - Starting application
+2025-01-20 10:49:47,593 - __main__ - INFO - Initializing session state
+2025-01-20 10:49:47,594 - query - INFO - Processing query: ...
+2025-01-20 10:49:47,596 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:49:47,596 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:49:51,597 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:49:52,129 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:49:52,130 - query - INFO - Query vector generated successfully
+2025-01-20 10:49:52,137 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:49:54,742 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:49:54,751 - __main__ - INFO - New user query received at 2025-01-20T10:49:54.751430
+2025-01-20 10:49:54,752 - __main__ - INFO - Query content: Page loading very slowly
+2025-01-20 10:49:54,884 - query - INFO - Processing query: Page loading very slowly...
+2025-01-20 10:49:54,884 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:49:54,885 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:49:57,805 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:49:58,319 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:49:58,319 - query - INFO - Query vector generated successfully
+2025-01-20 10:49:58,326 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:50:01,025 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:50:01,029 - __main__ - INFO - Query processing time: 6.15 seconds
+2025-01-20 10:50:01,030 - __main__ - INFO - Formatting response for query: Page loading very slowly...
+2025-01-20 10:50:01,031 - __main__ - INFO - Selected category: Authentication
+2025-01-20 10:50:01,031 - __main__ - INFO - Found 3 matching solutions
+2025-01-20 10:50:01,032 - nlp.text_generation - INFO - Generating text for query: Page loading very slowly...
+2025-01-20 10:50:02,175 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-20 10:50:02,176 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-20T10:50:02.175946",
+  "query": "Page loading very slowly",
+  "response": "Below are the steps to address the issue:\nHighly Suitable Solutions\n1. Increase database timeout settings and optimize queries.\n2. Extend session duration in server settings.\n3. Verify email server settings and troubleshoot SMTP configurations.",
+  "category": "Authentication"
+}
+2025-01-20 10:52:21,875 - __main__ - INFO - Starting application
+2025-01-20 10:52:21,890 - __main__ - INFO - Initializing session state
+2025-01-20 10:52:21,894 - query - INFO - Processing query: ...
+2025-01-20 10:52:21,896 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:52:21,896 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:52:26,721 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:52:27,907 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:52:27,908 - query - INFO - Query vector generated successfully
+2025-01-20 10:52:29,959 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:52:32,748 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:56:46,015 - __main__ - INFO - Starting application
+2025-01-20 10:56:46,016 - __main__ - INFO - Initializing session state
+2025-01-20 10:56:46,020 - query - INFO - Processing query: ...
+2025-01-20 10:56:46,027 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:56:46,030 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:56:51,341 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:56:51,937 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:56:51,938 - query - INFO - Query vector generated successfully
+2025-01-20 10:56:51,947 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:56:54,743 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:56:58,300 - __main__ - INFO - Starting application
+2025-01-20 10:56:58,301 - __main__ - INFO - Initializing session state
+2025-01-20 10:56:58,303 - query - INFO - Processing query: ...
+2025-01-20 10:56:58,304 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:56:58,305 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:57:01,371 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:57:01,937 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:57:01,938 - query - INFO - Query vector generated successfully
+2025-01-20 10:57:01,946 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:57:04,569 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:57:04,579 - __main__ - INFO - New user query received at 2025-01-20T10:57:04.579149
+2025-01-20 10:57:04,581 - __main__ - INFO - Query content: Page loading very slowly
+2025-01-20 10:57:04,680 - query - INFO - Processing query: Page loading very slowly...
+2025-01-20 10:57:04,680 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 10:57:04,681 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 10:57:07,637 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 10:57:08,131 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 10:57:08,131 - query - INFO - Query vector generated successfully
+2025-01-20 10:57:08,137 - query - INFO - Pinecone initialized successfully
+2025-01-20 10:57:10,796 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 10:57:10,800 - __main__ - INFO - Query processing time: 6.12 seconds
+2025-01-20 10:57:10,801 - __main__ - INFO - Formatting response for query: Page loading very slowly...
+2025-01-20 10:57:10,801 - __main__ - INFO - Selected category: Backend
+2025-01-20 10:57:10,802 - __main__ - INFO - Found 6 matching solutions
+2025-01-20 10:57:10,803 - nlp.text_generation - INFO - Generating text for query: Page loading very slowly...
+2025-01-20 10:57:11,678 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-20 10:57:11,679 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-20T10:57:11.679336",
+  "query": "Page loading very slowly",
+  "response": "Below are the steps to address the issue:\nHighly Suitable Solutions\n1. Reinstall the application and clear temporary files.\n2. Verify username and password, and reset credentials if necessary.\n3. Increase database timeout settings and optimize queries.\n4. Inspect API endpoint and validate request parameters.\n5. Optimize backend processes and reduce resource-intensive operations.",
+  "category": "Backend"
+}
+2025-01-20 12:21:25,280 - __main__ - INFO - Starting application
+2025-01-20 12:21:25,292 - __main__ - INFO - Initializing session state
+2025-01-20 12:21:25,296 - query - INFO - Processing query: ...
+2025-01-20 12:21:25,298 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:21:25,301 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:21:28,567 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:21:29,099 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:21:29,100 - query - INFO - Query vector generated successfully
+2025-01-20 12:21:29,119 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:21:31,587 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:21:31,602 - __main__ - INFO - New user query received at 2025-01-20T12:21:31.601923
+2025-01-20 12:21:31,603 - __main__ - INFO - Query content: error
+2025-01-20 12:21:31,610 - query - INFO - Processing query: error...
+2025-01-20 12:21:31,610 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:21:31,611 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:21:34,380 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:21:34,976 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:21:34,976 - query - INFO - Query vector generated successfully
+2025-01-20 12:21:34,979 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:21:37,352 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:21:37,357 - __main__ - INFO - Query processing time: 5.75 seconds
+2025-01-20 12:21:37,359 - __main__ - INFO - Formatting response for query: error...
+2025-01-20 12:21:37,359 - __main__ - INFO - Selected category: Backend
+2025-01-20 12:21:37,361 - __main__ - INFO - Found 5 matching solutions
+2025-01-20 12:21:37,362 - nlp.text_generation - INFO - Generating text for query: error...
+2025-01-20 12:21:38,261 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-20 12:21:38,262 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-20T12:21:38.262665",
+  "query": "error",
+  "response": "Below are the steps to address the issue:\nHighly Suitable Solutions\n1. Reinstall the application and clear temporary files.\n2. Extend session duration in server settings.\n3. Check file size and format; update server upload configurations.\n4. Inspect API endpoint and validate request parameters.\n5. Inspect API endpoint and validate request parameters.",
+  "category": "Backend"
+}
+2025-01-20 12:22:00,543 - __main__ - INFO - Starting application
+2025-01-20 12:22:00,545 - __main__ - INFO - Initializing session state
+2025-01-20 12:22:00,547 - query - INFO - Processing query: ...
+2025-01-20 12:22:00,547 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:22:00,547 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:22:04,115 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:22:04,633 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:22:04,633 - query - INFO - Query vector generated successfully
+2025-01-20 12:22:04,642 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:22:07,018 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:29:11,346 - __main__ - INFO - Starting application
+2025-01-20 12:29:11,348 - __main__ - INFO - Initializing session state
+2025-01-20 12:29:11,349 - query - INFO - Processing query: ...
+2025-01-20 12:29:11,350 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:29:11,350 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:29:15,775 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:29:16,322 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:29:16,323 - query - INFO - Query vector generated successfully
+2025-01-20 12:29:16,332 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:29:18,539 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:29:18,543 - __main__ - INFO - New user query received at 2025-01-20T12:29:18.543550
+2025-01-20 12:29:18,544 - __main__ - INFO - Query content: Page loading very slowly
+2025-01-20 12:29:18,547 - query - INFO - Processing query: Page loading very slowly...
+2025-01-20 12:29:18,549 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:29:18,549 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:29:21,926 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:29:22,394 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:29:22,395 - query - INFO - Query vector generated successfully
+2025-01-20 12:29:22,399 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:29:24,623 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:29:24,627 - __main__ - INFO - Query processing time: 6.08 seconds
+2025-01-20 12:29:24,627 - __main__ - INFO - Formatting response for query: Page loading very slowly...
+2025-01-20 12:29:24,628 - __main__ - INFO - Selected category: All Categories
+2025-01-20 12:29:24,629 - __main__ - INFO - Found 20 matching solutions
+2025-01-20 12:29:24,629 - nlp.text_generation - INFO - Generating text for query: Page loading very slowly...
+2025-01-20 12:29:25,987 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-20 12:29:25,988 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-20T12:29:25.987358",
+  "query": "Page loading very slowly",
+  "response": "Below are the steps to address the issue:\n**Highly Suitable Solutions**\n1. Reinstall the application and clear temporary files.\n2. Ensure the requested page exists and update the routing rules.\n3. Optimize backend processes and reduce resource-intensive operations.\n4. Verify email server settings and troubleshoot SMTP configurations.\n5. Increase database timeout settings and optimize queries.\n6. Extend session duration in server settings.\n7. Verify username and password, and reset credentials if necessary.\n8. Inspect API endpoint and validate request parameters.\n9. Optimize backend processes and reduce resource-intensive operations.\n10. Increase database timeout settings and optimize queries.\n11. Check server configuration and network connectivity.\n12. Reinstall the application and clear temporary files.",
+  "category": "All Categories"
+}
+2025-01-20 12:39:11,616 - __main__ - INFO - Starting application
+2025-01-20 12:39:11,618 - __main__ - INFO - Initializing session state
+2025-01-20 12:39:11,619 - query - INFO - Processing query: ...
+2025-01-20 12:39:11,620 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:39:11,620 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:39:15,127 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:39:15,619 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:39:15,619 - query - INFO - Query vector generated successfully
+2025-01-20 12:39:15,629 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:39:17,823 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:46:45,479 - __main__ - INFO - Starting application
+2025-01-20 12:46:45,490 - __main__ - INFO - Initializing session state
+2025-01-20 12:46:45,493 - query - INFO - Processing query: ...
+2025-01-20 12:46:45,494 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:46:45,494 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:46:49,388 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:46:50,859 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:46:50,859 - query - INFO - Query vector generated successfully
+2025-01-20 12:46:52,939 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:46:55,630 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:48:51,303 - __main__ - INFO - Starting application
+2025-01-20 12:48:51,304 - __main__ - INFO - Initializing session state
+2025-01-20 12:48:51,305 - query - INFO - Processing query: ...
+2025-01-20 12:48:51,305 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:48:51,306 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:48:54,971 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:48:55,567 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:48:55,568 - query - INFO - Query vector generated successfully
+2025-01-20 12:48:55,576 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:48:58,137 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:48:59,026 - __main__ - INFO - Starting application
+2025-01-20 12:48:59,028 - __main__ - INFO - Initializing session state
+2025-01-20 12:48:59,030 - query - INFO - Processing query: ...
+2025-01-20 12:48:59,031 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:48:59,032 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:49:02,636 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:49:03,244 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:49:03,245 - query - INFO - Query vector generated successfully
+2025-01-20 12:49:03,254 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:49:05,822 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:49:05,829 - __main__ - INFO - New user query received at 2025-01-20T12:49:05.829530
+2025-01-20 12:49:05,830 - __main__ - INFO - Query content: Page loading very slowly
+2025-01-20 12:49:05,923 - query - INFO - Processing query: Page loading very slowly...
+2025-01-20 12:49:05,924 - sentence_transformer - INFO - Generating embeddings for text
+2025-01-20 12:49:05,925 - sentence_transformer - INFO - Initializing embedding model: BAAI/bge-large-en
+2025-01-20 12:49:09,662 - sentence_transformer - INFO - Embedding model initialized successfully
+2025-01-20 12:49:10,140 - sentence_transformer - INFO - Embeddings generated successfully
+2025-01-20 12:49:10,141 - query - INFO - Query vector generated successfully
+2025-01-20 12:49:10,145 - query - INFO - Pinecone initialized successfully
+2025-01-20 12:49:12,752 - query - INFO - Query completed successfully. Found 20 matches
+2025-01-20 12:49:12,756 - __main__ - INFO - Query processing time: 6.83 seconds
+2025-01-20 12:49:12,756 - __main__ - INFO - Formatting response for query: Page loading very slowly...
+2025-01-20 12:49:12,757 - __main__ - INFO - Selected category: Backend
+2025-01-20 12:49:12,759 - __main__ - INFO - Found 6 matching solutions
+2025-01-20 12:49:12,759 - nlp.text_generation - INFO - Generating text for query: Page loading very slowly...
+2025-01-20 12:49:14,389 - nlp.text_generation - INFO - Text generation completed successfully
+2025-01-20 12:49:14,390 - __main__ - INFO - Conversation Log: {
+  "timestamp": "2025-01-20T12:49:14.390860",
+  "query": "Page loading very slowly",
+  "response": "Below are the steps to address the issue:\nHighly Suitable Solutions\n1. Reinstall the application and clear temporary files.\n2. Verify username and password, and reset credentials if necessary.\n3. Increase database timeout settings and optimize queries.\n4. Inspect API endpoint and validate request parameters.\n5. Optimize backend processes and reduce resource-intensive operations.",
+  "category": "Backend"
+}
